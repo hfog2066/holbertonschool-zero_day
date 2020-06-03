@@ -1,1 +1,0 @@
-<h2>This repository contains Git commands</h2>
