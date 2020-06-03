@@ -1,1 +1,1 @@
-<h2>This repsitory contains Vi Commnads</h2>
+<h2>This repository contains vi commands</h2>
