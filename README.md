@@ -1,1 +1,1 @@
-repository about holberton School zero day
+<h1>This file is a mandatory in all Holberton School projects</h1>
